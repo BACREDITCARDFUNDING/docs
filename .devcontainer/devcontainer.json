@@ -1,0 +1,4 @@
+https://github.com/apps/desktop?mobile_download=true{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
